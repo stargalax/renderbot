@@ -1,0 +1,8 @@
+streamlit==1.0.19.post1
+python-dotenv==1.0.1
+deep-translator==1.11.4
+SpeechRecognition==3.10.4
+gTTS==2.5.3
+pygame==2.6.1
+langflow==1.0.19.post1
+streamlit-chat==0.1.1
